@@ -5,11 +5,7 @@
 🚀 Me interesa el desarrollo de aplicaciones eficientes y escalables, combinando tecnologías de backend y frontend para ofrecer experiencias óptimas a los usuarios.  
 
 🔍 Actualmente, estoy trabajando en proyectos con tecnologías como **Java, React y Django**.  
-
-📚 Estoy profundizando mis conocimientos en:  
-- 🛠️ **Desarrollo de sistemas distribuidos**  
-- 🛠️ **Optimización de consultas SQL y modelado de bases de datos**  
-- 🛠️ **Inteligencia Artificial aplicada a sistemas de recomendación**  
+ 
 
 ---
 
